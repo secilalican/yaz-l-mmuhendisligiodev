@@ -1,5 +1,12 @@
 # yazilimmuhendisligiodev
 
+SEÇİL ALİCAN 2111502251
+ŞEYMA ALEYNA KAPLANOĞLU 2111502043
+HÜSEYİN ALAKUŞ  201502042 
+
+
+
+
 portfoy.spec dosyası, PyInstaller tarafından oluşturulan bir yapılandırma dosyasıdır. Bu dosyayı kullanarak özelleştirilmiş bir derleme işlemi gerçekleştirebilirsiniz.
 
 portfoy.spec Dosyasını Düzenleme (Opsiyonel): İlk olarak, bu dosyayı bir metin düzenleyiciyle açarak derleme işlemi için istediğiniz özellikleri yapılandırabilirsiniz. Bu dosya, derleme işlemi için bir dizi ayarı içerir.
